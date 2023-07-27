@@ -119,7 +119,6 @@ header {
   max-width: 400px;
   height: 45px;
   padding-left: 10px;
-  margin-bottom: 15px;
   border: 1px solid var(--light-gray);
   border-radius: 3px;
 }
@@ -137,7 +136,7 @@ header {
 
 .curve-bg {
   width: 100%;
-  background-image: url('./images/bg-curve-desktop.svg');
+  background-image: url('images/bg-curve-desktop.svg');
   background-repeat: no-repeat;
   background-position: top;
   height: 130px;
@@ -197,7 +196,7 @@ header {
 .middle-container-right {
   width: 40%;
   height: 450px;
-  background-image: url('./images/illustration-2.svg');
+  background-image: url('images/illustration-2.svg');
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -400,7 +399,7 @@ header {
   .top-section-right {
     width: 100%;
     height: 250px;
-    background-image: url('./images/illustration-1.svg');
+    background-image: url('images/illustration-1.svg');
     background-repeat: no-repeat;
     background-size: 100%;
   }
@@ -450,7 +449,7 @@ header {
   .middle-container-right {
     width: 100%;
     height: 250px;
-    background-image: url('./images/illustration-2.svg');
+    background-image: url('images/illustration-2.svg');
     background-repeat: no-repeat;
     background-size: 100%;
   }
